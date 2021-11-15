@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rRpro3GUbOFxpCYpLLx82WnX/SEhrrCt4sSBKrWCjKhOlPsO4s/7u5bg68dF+Gg2Q9ZUC5OygQu0qC6rniNLrQ==",
+  "success": true,
+  "projectFilePath": "/Users/ayushkc/Desktop/ApexResturant/ApexRestaurant.Repository/ApexRestaurant.Repository.csproj",
+  "expectedPackageFiles": [
+    "/Users/ayushkc/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ayushkc/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
