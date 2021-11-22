@@ -3,6 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ApexRestaurant.Services\ApexRestaurant.Services.csproj" />
     <ProjectReference Include="..\ApexRestaurant.Repository\ApexRestaurant.Repository.csproj" />
+    
   </ItemGroup>
 
   <PropertyGroup>

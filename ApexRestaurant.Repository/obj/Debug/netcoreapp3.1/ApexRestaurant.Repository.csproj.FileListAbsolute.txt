@@ -1,0 +1,9 @@
+/Users/ayushkc/Desktop/ApexResturant/ApexRestaurant.Repository/bin/Debug/netcoreapp3.1/ApexRestaurant.Repository.deps.json
+/Users/ayushkc/Desktop/ApexResturant/ApexRestaurant.Repository/bin/Debug/netcoreapp3.1/ApexRestaurant.Repository.dll
+/Users/ayushkc/Desktop/ApexResturant/ApexRestaurant.Repository/bin/Debug/netcoreapp3.1/ApexRestaurant.Repository.pdb
+/Users/ayushkc/Desktop/ApexResturant/ApexRestaurant.Repository/obj/Debug/netcoreapp3.1/ApexRestaurant.Repository.csprojAssemblyReference.cache
+/Users/ayushkc/Desktop/ApexResturant/ApexRestaurant.Repository/obj/Debug/netcoreapp3.1/ApexRestaurant.Repository.AssemblyInfoInputs.cache
+/Users/ayushkc/Desktop/ApexResturant/ApexRestaurant.Repository/obj/Debug/netcoreapp3.1/ApexRestaurant.Repository.AssemblyInfo.cs
+/Users/ayushkc/Desktop/ApexResturant/ApexRestaurant.Repository/obj/Debug/netcoreapp3.1/ApexRestaurant.Repository.csproj.CoreCompileInputs.cache
+/Users/ayushkc/Desktop/ApexResturant/ApexRestaurant.Repository/obj/Debug/netcoreapp3.1/ApexRestaurant.Repository.dll
+/Users/ayushkc/Desktop/ApexResturant/ApexRestaurant.Repository/obj/Debug/netcoreapp3.1/ApexRestaurant.Repository.pdb
