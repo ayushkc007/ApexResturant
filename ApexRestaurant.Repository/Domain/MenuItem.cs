@@ -2,11 +2,13 @@ using System;
 
 namespace ApexRestaurant.Repository.Domain
 {
-    public class StaffRoles
+    public class MenuItem
     {
         public int Id { get; set; }
 
-        public string StaffRoleDescription { get; set; }
+        public string MenuName { get; set; }
+
+        public string AvailableDateFrom { get; set; }
 
         public bool IsActive { get; set; }
 
