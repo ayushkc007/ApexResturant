@@ -2,9 +2,9 @@ using ApexRestaurant.Repository.Domain;
 
 namespace ApexRestaurant.Repository.RStaffRole
 {
-    public class StaffRolesRepository : GenericRepository<StaffRole>, IStaffRoleRepository
+    public class StaffRoleRepository : GenericRepository<StaffRole>, IStaffRoleRepository
     {
-        public StaffRolesRepository(RestaurantContext dbContext)
+        public StaffRoleRepository(RestaurantContext dbContext)
         {
             DbContext = dbContext;
         }
