@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AQZ6W3RUGlPV+r+1X+PKx2CUEJScs4QbY7egDRDfoGisTFpJvOS4hlGs5GRn/Ub2gAP+oQQm8/ZsR8ANKUsq3Q==",
+  "dgSpecHash": "fjoKLbk+s9EeQKZT/TUFt9BqyyGryT7YINmXJHtGvEzZznsM8kDdgLRUNu2eveLFCakALNNPsWxHLOCaREwhXw==",
   "success": true,
   "projectFilePath": "/Users/ayushkc/Desktop/ApexResturant/ApexRestaurant.Api/ApexRestaurant.Api.csproj",
   "expectedPackageFiles": [
@@ -12,7 +12,7 @@
     "/Users/ayushkc/.nuget/packages/microsoft.entityframeworkcore/3.1.0/microsoft.entityframeworkcore.3.1.0.nupkg.sha512",
     "/Users/ayushkc/.nuget/packages/microsoft.entityframeworkcore.abstractions/3.1.0/microsoft.entityframeworkcore.abstractions.3.1.0.nupkg.sha512",
     "/Users/ayushkc/.nuget/packages/microsoft.entityframeworkcore.analyzers/3.1.0/microsoft.entityframeworkcore.analyzers.3.1.0.nupkg.sha512",
-    "/Users/ayushkc/.nuget/packages/microsoft.entityframeworkcore.relational/2.1.2/microsoft.entityframeworkcore.relational.2.1.2.nupkg.sha512",
+    "/Users/ayushkc/.nuget/packages/microsoft.entityframeworkcore.relational/3.1.0/microsoft.entityframeworkcore.relational.3.1.0.nupkg.sha512",
     "/Users/ayushkc/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.0/microsoft.extensions.caching.abstractions.3.1.0.nupkg.sha512",
     "/Users/ayushkc/.nuget/packages/microsoft.extensions.caching.memory/3.1.0/microsoft.extensions.caching.memory.3.1.0.nupkg.sha512",
     "/Users/ayushkc/.nuget/packages/microsoft.extensions.configuration/3.1.0/microsoft.extensions.configuration.3.1.0.nupkg.sha512",

@@ -26,6 +26,20 @@
         "dependencies": {
           "ApexRestaurant.Repository": "1.0.0",
           "ApexRestaurant.Services": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.0",
+          "Microsoft.EntityFrameworkCore.Abstractions": "3.1.0",
+          "Microsoft.EntityFrameworkCore.Analyzers": "3.1.0",
+          "Microsoft.EntityFrameworkCore.Relational": "3.1.0",
+          "Microsoft.Extensions.Caching.Abstractions": "3.1.0",
+          "Microsoft.Extensions.Configuration": "3.1.0",
+          "Microsoft.Extensions.Configuration.Abstractions": "3.1.0",
+          "Microsoft.Extensions.Configuration.Binder": "3.1.0",
+          "Microsoft.Extensions.DependencyInjection": "3.1.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.0",
+          "Microsoft.Extensions.Logging": "3.1.0",
+          "Microsoft.Extensions.Logging.Abstractions": "3.1.0",
+          "Microsoft.Extensions.Options": "3.1.0",
+          "Microsoft.Extensions.Primitives": "3.1.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -423,14 +437,14 @@
         }
       },
       "Microsoft.EntityFrameworkCore.Analyzers/3.1.0": {},
-      "Microsoft.EntityFrameworkCore.Relational/2.1.2": {
+      "Microsoft.EntityFrameworkCore.Relational/3.1.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "3.1.0"
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Relational.dll": {
-            "assemblyVersion": "2.1.2.0",
-            "fileVersion": "2.1.2.18207"
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.100.19.56505"
           }
         },
         "compile": {
@@ -527,7 +541,7 @@
       },
       "MySql.Data.EntityFrameworkCore/8.0.19": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Relational": "2.1.2",
+          "Microsoft.EntityFrameworkCore.Relational": "3.1.0",
           "MySql.Data": "8.0.19"
         },
         "runtime": {
@@ -3214,12 +3228,12 @@
       "path": "microsoft.entityframeworkcore.analyzers/3.1.0",
       "hashPath": "microsoft.entityframeworkcore.analyzers.3.1.0.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.Relational/2.1.2": {
+    "Microsoft.EntityFrameworkCore.Relational/3.1.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-D3LftTZACLD0ziUxKbOOnlFOHya8iHAUC0X+LQzRA33SqhTfoDa8D+fMm+R8T9r4+52+/NKBLR24eCEO2xqp+g==",
-      "path": "microsoft.entityframeworkcore.relational/2.1.2",
-      "hashPath": "microsoft.entityframeworkcore.relational.2.1.2.nupkg.sha512"
+      "sha512": "sha512-eeiqVqzXVuwQsUbqXMyXSEUn/EHB9zmDsr5f/+v6uEt0ir7pgItuIi3I7QV4xvM/s0KbFsqGUOrAFPeRHE3plg==",
+      "path": "microsoft.entityframeworkcore.relational/3.1.0",
+      "hashPath": "microsoft.entityframeworkcore.relational.3.1.0.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/3.1.0": {
       "type": "package",
