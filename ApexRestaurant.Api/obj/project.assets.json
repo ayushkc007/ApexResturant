@@ -6499,7 +6499,8 @@
       "Microsoft.Extensions.Logging >= 3.1.0",
       "Microsoft.Extensions.Logging.Abstractions >= 3.1.0",
       "Microsoft.Extensions.Options >= 3.1.0",
-      "Microsoft.Extensions.Primitives >= 3.1.0"
+      "Microsoft.Extensions.Primitives >= 3.1.0",
+      "MySql.Data.EntityFrameworkCore >= 8.0.19"
     ]
   },
   "packageFolders": {
@@ -6599,6 +6600,10 @@
           "Microsoft.Extensions.Primitives": {
             "target": "Package",
             "version": "[3.1.0, )"
+          },
+          "MySql.Data.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[8.0.19, )"
           }
         },
         "imports": [

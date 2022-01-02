@@ -98,6 +98,10 @@
             "Microsoft.Extensions.Primitives": {
               "target": "Package",
               "version": "[3.1.0, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.19, )"
             }
           },
           "imports": [

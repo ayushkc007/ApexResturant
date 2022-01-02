@@ -40,6 +40,7 @@
           "Microsoft.Extensions.Logging.Abstractions": "3.1.0",
           "Microsoft.Extensions.Options": "3.1.0",
           "Microsoft.Extensions.Primitives": "3.1.0",
+          "MySql.Data.EntityFrameworkCore": "8.0.19",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
