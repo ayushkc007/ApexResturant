@@ -99,9 +99,9 @@
               "target": "Package",
               "version": "[3.1.0, )"
             },
-            "MySql.Data.EntityFrameworkCore": {
+            "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
-              "version": "[8.0.19, )"
+              "version": "[3.1.0, )"
             }
           },
           "imports": [
@@ -162,13 +162,13 @@
               "target": "Package",
               "version": "[3.1.0, )"
             },
-            "MySql.Data.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.19, )"
-            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.0, )"
             }
           },
           "imports": [
